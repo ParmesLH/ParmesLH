@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Meu nome é Luan Reis! Estou em um aprendizado constante. Atualmente estudo HTMl e JS. meu objetivo atual é aprender linguagens como C# MySQL e SQL. Com foco no back.</p>
+<p align="left">Meu nome é Luan Reis! Estou em um aprendizado constante. Atualmente estudo HTMl e JS, com experiencias em prototipação com o Figma. meu objetivo atual é aprender linguagens como C# MySQL e SQL. Com foco no back.</p>
 
 ###
 
